@@ -1,0 +1,35 @@
+{
+  "name": "new-react",
+  "version": "1.0.0",
+  "description": "This is part 1 by Charitha B",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charithab/React-Part1.git"
+  },
+  "keywords": [
+    "React",
+    "Part1"
+  ],
+  "author": "Charitha B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charithab/React-Part1/issues"
+  },
+  "homepage": "https://github.com/charithab/React-Part1#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
