@@ -18,3 +18,14 @@ React Part 1
 - HTTPs
 - Tree Shaking - remove unused code
 - Different dev and prod bundles
+
+
+Default export/import:
+
+export default component;
+import component from "path";
+
+Nameed export/import:
+
+export const component;
+import { component } from "path";
